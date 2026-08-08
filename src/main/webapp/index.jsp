@@ -3,7 +3,7 @@
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>Hello World! Welcome to DevOps CICD training 2026 with Webhook Automation</h1>
+	<h1>Hello World! Welcome to 2026 DevOps CICD training with Webhook Automation</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
